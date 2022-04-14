@@ -10,5 +10,5 @@ This bot once called in a server, scans every link that any member posts in a ch
 ## How I built it?
 This bot is built using the discord.js and Node.js frameworks with Visual Studio Code being the IDE. The bot was created and set up using the Discord deveoper portal.
 
-## Challenges I faced and leanrings 
+## Challenges I faced and learnings
 As this was my first time coding a Discord bot, I had lot's of issues with the set-up such as having a lower version of Node.js which didn't fulfill the requirement resulting in no output for quite sometime. I had issues with setting up a connection between the bot and server. I was also working for the first time with JavaScript, so it took me a while to get a hang of the syntax. Pretty much everyhting thing I did over the hackathon was completely new so I enjoyed and leanred a lot. Amazing experience!
